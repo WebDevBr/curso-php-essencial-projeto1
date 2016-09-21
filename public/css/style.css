@@ -4,7 +4,6 @@ body {
 	background-color: #7f8c8d;
 	color: #ecf0f1;
 	font-family: 'Lato', sans-serif;
-	padding-top: 20px;
 	font-size: 18px;
 }
 h1, h3 {
@@ -13,6 +12,7 @@ h1, h3 {
 .small-container {
 	margin: 0 auto;
 	max-width: 600px;
+	padding: 20px;
 }
 
 .form-control:focus {
