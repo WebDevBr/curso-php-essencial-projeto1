@@ -28,6 +28,8 @@
 
       <p>Sou programador, desenvolvedor web, mobile e professor no WebDevBr, MxCursos, Centro de Treinamento Novatec, Code-Squad, School of Net e também freelancer.</p>
 
+      <p>Trabalho com desenvolvimento de aplicativos móveis (Ionic), MEAN (MongoDb, Express, Angular e NodeJs), PHP (e os frameworks CakePHP 2 e 3, Laravel 5 e Zend Framework 2 e 3) e desenvolvimento front-end (HTML 5, CSS 3, Javascript, Angularjs, Angular 2 e VueJs).</p>
+
       <hr>
 
       <form action="send.php" class="text-left" method="post">
